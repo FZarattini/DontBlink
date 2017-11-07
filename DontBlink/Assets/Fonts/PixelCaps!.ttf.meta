@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 86bf0ea4613ed15459d166af20f8c9e2
+timeCreated: 1505743613
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PixelCaps!
+  fontNames:
+  - PixelCaps!
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
