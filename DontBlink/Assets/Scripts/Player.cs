@@ -45,6 +45,7 @@ public class Player : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        Time.timeScale = 1f;
         coolDown = 0;
         hitCount = 0;
         anim = GetComponent<Animator>();
